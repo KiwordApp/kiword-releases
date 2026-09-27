@@ -7,8 +7,8 @@
 **English** · [简体中文 (Chinese)](./README_zh.md)
 
 [![Official Website](https://img.shields.io/badge/Official_Website-kiword.top-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.kiword.top/?utm_source=github&utm_medium=readme_header&utm_campaign=kiword-releases "Visit the Kiword official website")
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-x64_%7C_ARM64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/kevincheng198-web/kiword-releases/releases/latest "Download the latest Kiword installer")
-[![GitHub Stars](https://img.shields.io/github/stars/kevincheng198-web/kiword-releases?style=social&label=Stars)](https://github.com/kevincheng198-web/kiword-releases "Star Kiword on GitHub")
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-x64_%7C_ARM64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/KiwordApp/kiword-releases/releases/latest "Download the latest Kiword installer")
+[![GitHub Stars](https://img.shields.io/github/stars/KiwordApp/kiword-releases?style=social&label=Stars)](https://github.com/KiwordApp/kiword-releases "Star Kiword on GitHub")
 
 </div>
 
@@ -47,7 +47,7 @@ Built on local, **on-device AI**, Kiword also doubles as a fast **voice typing t
 
 This repository publishes official, signed **Kiword desktop installers only** (no source code). The current build targets **Windows 10 or later** — macOS and Linux builds are on the way (join the waitlist on the [download page](https://www.kiword.top/download?utm_source=github&utm_medium=readme_download&utm_campaign=kiword-releases)).
 
-**[Download the latest Windows installer](https://github.com/kevincheng198-web/kiword-releases/releases/latest)** — x64 and ARM64 builds are attached to every release.
+**[Download the latest Windows installer](https://github.com/KiwordApp/kiword-releases/releases/latest)** — x64 and ARM64 builds are attached to every release.
 
 ### System requirements
 
@@ -57,7 +57,7 @@ This repository publishes official, signed **Kiword desktop installers only** (n
 
 ### Get started in 3 steps
 
-1. Download and run the installer from the [Releases page](https://github.com/kevincheng198-web/kiword-releases/releases/latest).
+1. Download and run the installer from the [Releases page](https://github.com/KiwordApp/kiword-releases/releases/latest).
 2. Create an account or sign in — your free trial and subscription are tied to your account and sync across devices.
 3. Pick a student or parent profile and start speaking. Updates install automatically in the background.
 
@@ -81,7 +81,7 @@ Kiword's voice recognition and processing are built to run locally on your devic
 
 ### How do I update Kiword?
 
-Kiword updates itself in the background. To update manually, download the newest installer from the [Releases page](https://github.com/kevincheng198-web/kiword-releases/releases/latest) and run it — your settings and account are preserved.
+Kiword updates itself in the background. To update manually, download the newest installer from the [Releases page](https://github.com/KiwordApp/kiword-releases/releases/latest) and run it — your settings and account are preserved.
 
 ### Is Kiword suitable for students with dyslexia or learning differences?
 
@@ -96,7 +96,7 @@ Absolutely. Switch to a parent profile and use the same on-device AI for hands-f
 - **Website & pricing:** [https://www.kiword.top](https://www.kiword.top/?utm_source=github&utm_medium=readme_resources&utm_campaign=kiword-releases)
 - **Download page:** [https://www.kiword.top/download](https://www.kiword.top/download?utm_source=github&utm_medium=readme_resources&utm_campaign=kiword-releases)
 - **Privacy policy:** [https://www.kiword.top/privacy](https://www.kiword.top/privacy?utm_source=github&utm_medium=readme_privacy&utm_campaign=kiword-releases)
-- **Release notes:** the [Releases page](https://github.com/kevincheng198-web/kiword-releases/releases) of this repository
+- **Release notes:** the [Releases page](https://github.com/KiwordApp/kiword-releases/releases) of this repository
 
 ---
 
