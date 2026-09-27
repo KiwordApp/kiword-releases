@@ -7,8 +7,8 @@
 **简体中文** · [English](./README.md)
 
 [![官方网站](https://img.shields.io/badge/Official_Website-kiword.top-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.kiword.top/?utm_source=github&utm_medium=readme_header&utm_campaign=kiword-releases "访问 Kiword 官网")
-[![下载 Windows 版](https://img.shields.io/badge/Download_for_Windows-x64_%7C_ARM64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/kevincheng198-web/kiword-releases/releases/latest "下载最新 Kiword 安装包")
-[![GitHub Stars](https://img.shields.io/github/stars/kevincheng198-web/kiword-releases?style=social&label=Stars)](https://github.com/kevincheng198-web/kiword-releases "在 GitHub 上为 Kiword 点亮 Star")
+[![下载 Windows 版](https://img.shields.io/badge/Download_for_Windows-x64_%7C_ARM64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/KiwordApp/kiword-releases/releases/latest "下载最新 Kiword 安装包")
+[![GitHub Stars](https://img.shields.io/github/stars/KiwordApp/kiword-releases?style=social&label=Stars)](https://github.com/KiwordApp/kiword-releases "在 GitHub 上为 Kiword 点亮 Star")
 
 </div>
 
@@ -38,7 +38,7 @@ Kiword 是一款为 **K-12 学生与家长**打造的**语音转文字（听写�
 
 本仓库仅发布官方签名的 **Kiword 桌面安装包**（不含源码）。当前版本支持 **Windows 10 及以上**；macOS 与 Linux 版本正在开发中（可在[下载页](https://www.kiword.top/download?utm_source=github&utm_medium=readme_download&utm_campaign=kiword-releases)排队等候）。
 
-**[下载最新 Windows 安装包](https://github.com/kevincheng198-web/kiword-releases/releases/latest)**——每个 Release 均附带 x64 与 ARM64 版本。
+**[下载最新 Windows 安装包](https://github.com/KiwordApp/kiword-releases/releases/latest)**——每个 Release 均附带 x64 与 ARM64 版本。
 
 ### 系统要求
 
@@ -48,7 +48,7 @@ Kiword 是一款为 **K-12 学生与家长**打造的**语音转文字（听写�
 
 ### 三步开始使用
 
-1. 在 [Releases 页面](https://github.com/kevincheng198-web/kiword-releases/releases/latest) 下载并运行安装程序。
+1. 在 [Releases 页面](https://github.com/KiwordApp/kiword-releases/releases/latest) 下载并运行安装程序。
 2. 注册或登录账号——试用与订阅与账号绑定，跨设备自动同步。
 3. 选择学生或家长档案，开始说话即可。更新会在后台自动完成。
 
@@ -72,7 +72,7 @@ Kiword 的语音识别与处理在本地设备上运行，孩子口述内容无�
 
 ### 如何更新 Kiword？
 
-Kiword 会后台自动更新。如需手动更新，从 [Releases 页面](https://github.com/kevincheng198-web/kiword-releases/releases/latest) 下载最新安装包并运行即可，设置与账号不受影响。
+Kiword 会后台自动更新。如需手动更新，从 [Releases 页面](https://github.com/KiwordApp/kiword-releases/releases/latest) 下载最新安装包并运行即可，设置与账号不受影响。
 
 ### 适合有阅读/书写困难（Dyslexia）的孩子吗？
 
@@ -87,7 +87,7 @@ Kiword 会后台自动更新。如需手动更新，从 [Releases 页面](https:
 - **官网与定价：** [https://www.kiword.top](https://www.kiword.top/?utm_source=github&utm_medium=readme_resources&utm_campaign=kiword-releases)
 - **下载页：** [https://www.kiword.top/download](https://www.kiword.top/download?utm_source=github&utm_medium=readme_resources&utm_campaign=kiword-releases)
 - **隐私政策：** [https://www.kiword.top/privacy](https://www.kiword.top/privacy?utm_source=github&utm_medium=readme_privacy&utm_campaign=kiword-releases)
-- **发布说明：** 本仓库 [Releases 页面](https://github.com/kevincheng198-web/kiword-releases/releases)
+- **发布说明：** 本仓库 [Releases 页面](https://github.com/KiwordApp/kiword-releases/releases)
 
 ---
 
