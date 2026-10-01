@@ -6,7 +6,7 @@
 
 **English** · [简体中文 (Chinese)](./README_zh.md)
 
-[![Official Website](https://img.shields.io/badge/Official_Website-kiword.top-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.kiword.top/?utm_source=github&utm_medium=readme_header&utm_campaign=kiword-releases "Visit the Kiword official website")
+[![Official Website](https://img.shields.io/badge/Official_Website-kiword.app-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.kiword.app/?utm_source=github&utm_medium=readme_header&utm_campaign=kiword-releases "Visit the Kiword official website")
 [![Download for Windows](https://img.shields.io/badge/Download_for_Windows-x64_%7C_ARM64-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/KiwordApp/kiword-releases/releases/latest "Download the latest Kiword installer")
 [![GitHub Stars](https://img.shields.io/github/stars/KiwordApp/kiword-releases?style=social&label=Stars)](https://github.com/KiwordApp/kiword-releases "Star Kiword on GitHub")
 
@@ -41,11 +41,11 @@ Built on local, **on-device AI**, Kiword also doubles as a fast **voice typing t
 | **Approach** | Generates the whole answer | Scaffolds: prompts, grammar and vocabulary support |
 | **Privacy** | Uploads text and voice to cloud servers | Core processing stays on your device |
 | **Child learns?** | AI did all the thinking | Child does the thinking, guided step by step |
-| **Price** | ~$20/month | Family-friendly yearly price ([kiword.top](https://www.kiword.top/?utm_source=github&utm_medium=readme_compare&utm_campaign=kiword-releases)) |
+| **Price** | ~$20/month | Family-friendly yearly price ([kiword.app](https://www.kiword.app/?utm_source=github&utm_medium=readme_compare&utm_campaign=kiword-releases)) |
 
 ## Download & install
 
-This repository publishes official, signed **Kiword desktop installers only** (no source code). The current build targets **Windows 10 or later** — macOS and Linux builds are on the way (join the waitlist on the [download page](https://www.kiword.top/download?utm_source=github&utm_medium=readme_download&utm_campaign=kiword-releases)).
+This repository publishes official, signed **Kiword desktop installers only** (no source code). The current build targets **Windows 10 or later** — macOS and Linux builds are on the way (join the waitlist on the [download page](https://www.kiword.app/download?utm_source=github&utm_medium=readme_download&utm_campaign=kiword-releases)).
 
 **[Download the latest Windows installer](https://github.com/KiwordApp/kiword-releases/releases/latest)** — x64 and ARM64 builds are attached to every release.
 
@@ -65,7 +65,7 @@ This repository publishes official, signed **Kiword desktop installers only** (n
 
 ### Is Kiword free?
 
-Kiword starts with a free trial when you sign in — no credit card is required to try it. After the trial, a family license is a single yearly price that is far below typical cloud AI subscriptions. See current plans and pricing on [kiword.top](https://www.kiword.top/?utm_source=github&utm_medium=readme_faq&utm_campaign=kiword-releases).
+Kiword starts with a free trial when you sign in — no credit card is required to try it. After the trial, a family license is a single yearly price that is far below typical cloud AI subscriptions. See current plans and pricing on [kiword.app](https://www.kiword.app/?utm_source=github&utm_medium=readme_faq&utm_campaign=kiword-releases).
 
 ### Does Kiword write my child's essays for them?
 
@@ -73,11 +73,11 @@ No. Kiword is designed as an educational writing scaffold, not a ghostwriter. It
 
 ### How does Kiword protect my child's privacy?
 
-Kiword's voice recognition and processing are built to run locally on your device, so your child's dictation does not have to be uploaded to a public cloud to be transcribed. Some optional features (advanced vocabulary lookup and parent-dashboard progress reports) may use an internet connection. Read the [Privacy Policy](https://www.kiword.top/privacy?utm_source=github&utm_medium=readme_privacy&utm_campaign=kiword-releases) for full details.
+Kiword's voice recognition and processing are built to run locally on your device, so your child's dictation does not have to be uploaded to a public cloud to be transcribed. Some optional features (advanced vocabulary lookup and parent-dashboard progress reports) may use an internet connection. Read the [Privacy Policy](https://www.kiword.app/privacy?utm_source=github&utm_medium=readme_privacy&utm_campaign=kiword-releases) for full details.
 
 ### Which platforms are supported?
 
-**Windows 10 or later** (x64 and ARM64) is available today in this repository. macOS and Linux support are in active development — check the [download page](https://www.kiword.top/download?utm_source=github&utm_medium=readme_platform&utm_campaign=kiword-releases) for availability.
+**Windows 10 or later** (x64 and ARM64) is available today in this repository. macOS and Linux support are in active development — check the [download page](https://www.kiword.app/download?utm_source=github&utm_medium=readme_platform&utm_campaign=kiword-releases) for availability.
 
 ### How do I update Kiword?
 
@@ -93,9 +93,9 @@ Absolutely. Switch to a parent profile and use the same on-device AI for hands-f
 
 ## Official resources
 
-- **Website & pricing:** [https://www.kiword.top](https://www.kiword.top/?utm_source=github&utm_medium=readme_resources&utm_campaign=kiword-releases)
-- **Download page:** [https://www.kiword.top/download](https://www.kiword.top/download?utm_source=github&utm_medium=readme_resources&utm_campaign=kiword-releases)
-- **Privacy policy:** [https://www.kiword.top/privacy](https://www.kiword.top/privacy?utm_source=github&utm_medium=readme_privacy&utm_campaign=kiword-releases)
+- **Website & pricing:** [https://www.kiword.app](https://www.kiword.app/?utm_source=github&utm_medium=readme_resources&utm_campaign=kiword-releases)
+- **Download page:** [https://www.kiword.app/download](https://www.kiword.app/download?utm_source=github&utm_medium=readme_resources&utm_campaign=kiword-releases)
+- **Privacy policy:** [https://www.kiword.app/privacy](https://www.kiword.app/privacy?utm_source=github&utm_medium=readme_privacy&utm_campaign=kiword-releases)
 - **Release notes:** the [Releases page](https://github.com/KiwordApp/kiword-releases/releases) of this repository
 
 ---
