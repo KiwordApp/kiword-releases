@@ -24,6 +24,20 @@ Kiword 是一款为 **K-12 学生与家长**打造的**语音转文字（听写�
 - **给家长：** 系统级语音输入、选区翻译与 AI 润色，家庭共享账号与进度报告。
 - **给整个家庭：** 一份订阅覆盖孩子与成人的多个档案。
 
+## 实际效果演示
+
+<div align="center">
+
+**原位翻译** — 选中任意文本，即刻获得翻译。
+
+![Kiword 原位翻译选中文本](docs/marketing/demoVedios/translation_demo.gif)
+
+**语法与写作润色** — 修正语法、优化表达，同时保留你的原意。
+
+![Kiword 润色语法、修正写作](docs/marketing/demoVedios/Polish_grammar_fixing.gif)
+
+</div>
+
 ## 为什么家庭选择 Kiword
 
 - **天生注重隐私。** 核心语音识别与写作功能在本地设备上运行，语音记录不会上传到公开云端——符合 **COPPA** 与 **GDPR** 理念的隐私优先方案。

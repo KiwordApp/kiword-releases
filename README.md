@@ -24,6 +24,20 @@ Built on local, **on-device AI**, Kiword also doubles as a fast **voice typing t
 - **For parents:** system-wide voice typing, in-place translation and AI polish, plus a shared family account with progress reporting.
 - **For every family:** one affordable license covers child and adult profiles.
 
+## See it in action
+
+<div align="center">
+
+**In-place translation** — select any text, get an instant translation.
+
+![Kiword translating a selected passage in place](docs/marketing/demoVedios/translation_demo.gif)
+
+**Grammar & writing polish** — fix grammar and refine wording while keeping your voice.
+
+![Kiword polishing grammar and fixing writing](docs/marketing/demoVedios/Polish_grammar_fixing.gif)
+
+</div>
+
 ## Why families choose Kiword
 
 - **Private by design.** Core speech recognition and writing features run locally on your computer. No voice recordings are stored in a public cloud. A privacy-first approach aligned with **COPPA** and **GDPR** expectations.
